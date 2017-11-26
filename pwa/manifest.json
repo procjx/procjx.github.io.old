@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Procjx Blog",
+  "short_name": "Procjx Blog",
+  "description": "NLP.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
