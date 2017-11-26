@@ -89,12 +89,18 @@ friends: [
     {
         title: "ACL Anthology",
         href: "https://aclanthology.coli.uni-saarland.de/"
-    },{
+    },
+    {
         title: "51NLP",
         href: "http://www.52nlp.cn/"
-    },{
+    },
+    {
         title: "arXiv",
         href: "https://arxiv.org/"
+    },
+    {
+        title: "PaperWeekly",
+        href: "https://zhuanlan.zhihu.com/paperweekly/"
     }
     
 ]
