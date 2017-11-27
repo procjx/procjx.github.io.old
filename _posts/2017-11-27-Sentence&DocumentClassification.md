@@ -13,6 +13,6 @@ tags:
 ---
 
 #### 《Extractive Summarization Using Multi-Task Learning wit hDocument Classiﬁcation》
-> Masaru et al., EMNLP, 2017<br/>
+###### Masaru et al., EMNLP, 2017
  [PDF](http://aclweb.org/anthology/D17-1222)
 
