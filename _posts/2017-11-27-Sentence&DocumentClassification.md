@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     post
 title:      "Sentence and Document Classification"
 subtitle:   "Papers from AAAI, IJCAI, ACL and EMNLP"
 date:       2017-11-27 10:00:00
