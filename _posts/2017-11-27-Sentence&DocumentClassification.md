@@ -14,9 +14,6 @@ tags:
 
 #### 《Extractive Summarization Using Multi-Task Learning with Document Classiﬁcation》
 ###### Masaru et al., EMNLP, 2017
+####### Abstract
+The need for automatic document summarization that can be used for practical applications is increasing rapidly. In this paper, we propose a general framework for summarization that extracts sentences from a document using externally related information. Our work is aimed at single document summarization using small amounts of reference summaries. In particular, we address document summarization in the framework of multitask learning using curriculum learning for sentence extraction and document classification. The proposed framework enables us to obtain better feature representations to extract sentences from documents. We evaluate our proposed summarization method on two datasets: financial report and news corpus. Experimental results demonstrate that our summarizers achieve performance that is comparable to stateof-the-art systems.
  [PDF](http://aclweb.org/anthology/D17-1222)
- <object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="100%" height="720"> <param name="SRC" value="http://aclweb.org/anthology/S/S14/S14-1002.pdf" > <embed width="100%" height="400" fullscreen="yes" src="http://aclweb.org/anthology/S/S14/S14-1002.pdf"> </embed> </object>
- aaaaaaaaaaa
-<object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="1000" height="1200" border="0"> <param name="_Version" value="65539"> <param name="_ExtentX" value="20108"> <param name="_ExtentY" value="10866"> <param name="_StockProps" value="0"> <param name="SRC" value="http://aclweb.org/anthology/S/S14/S14-1002.pdf"> <object data="http://aclweb.org/anthology/S/S14/S14-1002.pdf" type="application/pdf" width="1000" height="1200"> </object> </object> 
-bbbbbbbbbbbbbbbbb
-<embed id="pdfPlayer" src="http://aclweb.org/anthology/S/S14/S14-1002.pdf" type="application/pdf" width="100%" height="100%" >
