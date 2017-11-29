@@ -20,7 +20,8 @@ tags:
  
 - [PDF](http://aclweb.org/anthology/D17-1222)
 
-<hr>
+---
+
 #### 《DOC: Deep Open Classiﬁcation of Text Documents》
 ###### LeiShu et al., EMNLP, 2017
 - <b>摘要</b><br/>
@@ -29,7 +30,8 @@ tags:
  
 - [PDF](http://www.aclweb.org/anthology/D/D17/D17-1313.pdf)
 
-<hr>
+---
+
 #### 《Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classiﬁcation》
 ###### Jiacheng Xu et al., EMNLP, 2016
 - <b>摘要</b><br/>
@@ -38,7 +40,8 @@ tags:
  
 - [PDF](http://www.aclweb.org/anthology/D/D16/D16-1172.pdf)
 
-<hr>
+---
+
 #### 《Document-Level Multi-Aspect Sentiment Classiﬁcationas Machine Comprehension》
 ###### Yichun Yin et al., EMNLP, 2017
 - <b>摘要</b><br/>
