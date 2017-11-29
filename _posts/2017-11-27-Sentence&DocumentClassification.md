@@ -24,7 +24,7 @@ tags:
 #### 《DOC: Deep Open Classiﬁcation of Text Documents》
 ###### LeiShu et al., EMNLP, 2017
 - <b>摘要</b><br/>
-&nbsp; Traditional supervised learning makes the closed-world assumption that the classes appeared in the test data must have appearedintraining. Thisalsoappliestotext learning or text classiﬁcation. As learning isusedincreasinglyindynamicopenenvironments where some new/test documents may not belong to any of the training classes,identifyingthesenoveldocuments duringclassiﬁcationpresentsanimportant problem. This problem is called openworld classiﬁcation or open classiﬁcation. This paper proposes a novel deep learning based approach. It outperforms existing state-of-the-art techniques dramatically. 
+&nbsp; Traditional supervised learning makes the closed-world assumption that the classes appeared in the test data must have appeared in training. This also applies to text learning or text classiﬁcation. As learning is used increasingly in dynamic open environments where some new/test documents may not belong to any of the training classes,identifying the senovel documents during classiﬁcation presents an important problem. This problem is called open world classiﬁcation or open classiﬁcation. This paper proposes a novel deep learning based approach. It outperforms existing state-of-the-art techniques dramatically. 
  <br/>
  
 - [PDF](http://www.aclweb.org/anthology/D/D17/D17-1313.pdf)
