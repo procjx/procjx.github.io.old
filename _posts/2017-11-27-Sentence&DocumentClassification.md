@@ -5,7 +5,7 @@ subtitle:   "Papers from AAAI, IJCAI, ACL and EMNLP"
 date:       2017-11-27 10:00:00
 author:     "Procjx"
 header-img: "img/blog/machine-learning.jpg"
-catalog:    false
+catalog:    true
 tags:
     - Sentence Classification
     - Document Classification
