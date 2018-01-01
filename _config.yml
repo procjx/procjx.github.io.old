@@ -86,6 +86,11 @@ service-worker: true
 
 # Friends
 friends: [
+    
+    {
+        title: "AAAI",
+        href: "https://www.aaai.org/"
+    },
     {
         title: "ACL Anthology",
         href: "https://aclanthology.coli.uni-saarland.de/"
