@@ -7,8 +7,7 @@ author:     "Procjx"
 header-img: "img/blog/machine-learning.jpg"
 catalog:    true
 tags:
-    - Pooling
-    
+    - Pooling 
     
 ---
 
