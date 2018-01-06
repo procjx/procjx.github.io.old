@@ -8,7 +8,6 @@ header-img: "img/blog/machine-learning.jpg"
 catalog:    true
 tags:
     - Pooling 
-    - Articles 
     
 ---
 
