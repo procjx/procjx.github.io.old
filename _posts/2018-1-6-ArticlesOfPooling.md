@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Articles of Pooling"
-subtitle:   "Papers from AAAI, IJCAI, ACL and EMNLP"
+subtitle:   "Papers from AAAI, IJCAI, ACL, EMNLP and COLING"
 date:       2018-1-6 21:00:00
 author:     "Procjx"
 header-img: "img/blog/machine-learning.jpg"
