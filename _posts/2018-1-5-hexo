@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "博客完善"
+subtitle:   ""
+date:       2018-11-27 10:00:00
+author:     "Procjx"
+header-img: "img/blog/machine-learning.jpg"
+catalog:    true
+tags:
+    - Sentence Classification
+    - Document Classification
+    - Articles
+    
+---
+
+- hexo-admin 后台编辑功能完善
+- **多级分类**
+- 博客阅读统计
+- 标签云模块
+- **多级分类模块**
+- 最新博客模块
+- 评论模块
+- 留言模块
+- hexo markdown 编辑语法
+- 首页博客分栏
+- 整理CSDN博客论文笔记 [完成]
+- google Adsense [代码已经修改完成，需要等谷歌审核]
+- 部署到github page上
+- 增加一个新栏目： 会议截稿
+- post标签图案修改，并挪到开头位置
