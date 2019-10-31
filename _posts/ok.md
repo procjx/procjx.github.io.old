@@ -1,0 +1,26 @@
+**Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing**. Yuxuan Wang, Wanxiang Che, Jiang Guo, Yijia Liu, Ting Liu. EMNLP 2019 [\[PDF\]](https://arxiv.org/abs/1909.06775)（短文）
+
+# 动机
+本篇论文主要解决目前大部分cross-lingual word embedding技术存在的问题：
+
+（1）依赖大量跨语言数据
+
+（2）需要大量计算资源和训练时间
+
+ 
+# 方法
+本文提出一种简单快捷的离线cross-lingual BERT线性映射方法：
+
+（1）通过无监督词对齐方法获得上下文对齐次对（context-level，非词典）
+
+（2）通过预训练好的BERT模型得到上下文对齐次对（x,y）中x,y的上下文表示
+
+（3）通过SVD(奇异值分解)、GD(梯度下降)的方式求得两个表示的线性映射
+
+![](https://img-blog.csdnimg.cn/2019100320530798.png)
+
+ 
+
+ 
+
+作者将获得的跨语言上下文词向量应用到zero-shot依存分析任务上，并获得了目前最好结果。并与XLM(利用跨语言数据重新训练BERT的方法)进行了对比，实验表明该方法在取得与XLM相近结果的情况下，需要的计算资源更少，训练速度也更快。
